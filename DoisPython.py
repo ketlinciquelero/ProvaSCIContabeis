@@ -1,3 +1,5 @@
+# Solicitar 5 números, ao fim, imprimir o número maior e o número menor.
+
 numeros = []
 
 # Laço de repetição para obter 5 entradas do usuário
