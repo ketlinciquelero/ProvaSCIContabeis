@@ -8,7 +8,7 @@ Fiz atualizações neste repositório do GitHub antes da data de entrega da prov
 
 Agradeço a oportunidade de participar da seletiva do programa de estágio na SCI Contábeis e espero que este repositório atenda às expectativas. Qualquer dúvida, estou à disposição para esclarecimentos.
 
-# Sobre Ketlin
+# Sobre mim
 Sou apaixonada por programação e tecnologia. Tenho 23 anos e estou sempre em busca de novos desafios para aprimorar minha habilidades em programação, principalmente em Python.
 
 Além da minha paixão por programação, sou uma pessoa muito dedicada e comprometida com meus objetivos. Sou perseverante e não desisto facilmente de meus projetos, sempre buscando soluções criativas para os desafios que enfrento.
