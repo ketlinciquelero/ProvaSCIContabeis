@@ -7,18 +7,22 @@ while True:
   nome = input('Digite o nome do(a) aluno(a): ')
   notas = []
 
+# Laço de repetição para obter 4 notas do aluno
   for i in range(4):
     nota = int(input(f'Digite a {i + 1}ª nota: '))
     notas.append(nota)
-  
+
+# Cálculo da média e exibição do resultado 
   media = sum(notas) / 4
   print(f'A média de {nome} é {round(media)}')
 
+# Verificação se o aluno foi aprovado ou reprovado
   if media >= 6:
     print("Aprovado(a)! :)")
   else:
     print("Reprovado(a)! :(")
-  
+
+# Pergunta se o usuário deseja continuar e encerra o laço se a resposta for "N"
   continuar = input('Você deseja continuar? [S] ou [N] ')
   if continuar == 'N':
     break
